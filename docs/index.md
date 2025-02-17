@@ -1,13 +1,15 @@
-# Welcome to MkDocs
+# Homepage
+Begin here. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# IS/IS NOT
 
-## Commands
+## What is this resource?
+- It is a resource to understand how AI is impacting India
+- It aims to be a one-stop resource for people to learn and orient themselves about AI
+- The inspiration was the Situational Awareness blog
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What this resource isn't
+- This is not a technical documentation
 
 ## Project layout
 
