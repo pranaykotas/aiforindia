@@ -5,7 +5,7 @@ Capture resources that explain Machine Learning
 1. UnderstandingAI has a great [explainer](https://www.understandingai.org/p/large-language-models-explained-with#footnote-anchor-1-135476638)
 2. Andrej Karpathy has a great [video](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 3. Here's a conceptual overview on LLMs by Pranay 
-<iframe src="docs/assets/GenAI.pdf" width="100%" height="600px"></iframe>
+![Generative AI Basics](assets/GenAI.pdf){ type=application/pdf style="min-height:50vh;width:100%" }
 4. There is a great [book](https://udlbook.github.io/udlbook/) on Understanding Deep Learning by Simon D Prince. Intermediate level.
 
 # Dependable Resources
