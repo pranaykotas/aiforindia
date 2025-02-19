@@ -18,7 +18,8 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
+      - run: pip install mkdocs # trying to fix the ci.yml error    
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-pdf
+      - run: pip install mkdocs-pdf #tried gave error
       - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --force
